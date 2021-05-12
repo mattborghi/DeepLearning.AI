@@ -18,6 +18,11 @@ The Specialization consists in the following 5 courses:
 
 I consider Neural Style Transfer, Self Driving Cars and Reinforcemente Learning (the latter not covered in the course) as the most interesting topics about AI, and the ones I would like to further investigate.
 
+# Course Notes [Spanish]
+
+[![book](./assets/img/book.png)](introduccion_deep_learning.pdf)
+
+
 ## Here I list some resources for implementing Machine Learning/Deep Learning projects.
 
 https://tools.google.com/seedbank/
