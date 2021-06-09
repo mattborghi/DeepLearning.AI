@@ -1,27 +1,20 @@
 # DeepLearningAI
 
-I already completed the Andrew Ng's Deep Learning Specialization.
-
-In the future I should edit the docx file to have a better termination and, better, make a LaTeX version of it.
+## Course Notes [Spanish]
 
 The Specialization consists in the following 5 courses:
 
-1. Neural Networks and Deep Learning.
+1. [Neural Networks and Deep Learning](./notes/course_one.pdf).
 
-2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.
+2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](./notes/course_two.pdf).
 
-3. Structuring Machine Learning Projects.
+3. [Structuring Machine Learning Projects](./notes/course_three.pdf).
 
-4. Convolutional Neural Networks.
+4. [Convolutional Neural Networks](./notes/course_four.pdf).
 
-5. Sequence Models.
+5. [Sequence Models](./notes/course_five.pdf).
 
-I consider Neural Style Transfer, Self Driving Cars and Reinforcemente Learning (the latter not covered in the course) as the most interesting topics about AI, and the ones I would like to further investigate.
-
-# Course Notes [Spanish]
-
-[![book](./assets/img/book.png)](introduccion_deep_learning.pdf)
-
+> “we wrap up this sequence of courses as we wrap up this specialization I hope that you will find ways to use these ideas to further your career to pursue your dreams but perhaps most important to do whatever you think is the best work you can do our humanity the world today has challenges but with the power of a on power of deep learning I think we can make it a much better place and now that you have this superpower I hope you will use it to go out there and make life better for yourself but also for other people”. **Andrew Ng**.
 
 ## Here I list some resources for implementing Machine Learning/Deep Learning projects.
 
